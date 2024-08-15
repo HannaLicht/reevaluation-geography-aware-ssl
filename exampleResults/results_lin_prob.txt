@@ -1,0 +1,11 @@
+moco
+Recall: 0.2391, F2 macro: 0.2603, F2 micro: 0.3810, hl: 0.1146, oe: 0.3114
+
+moco tp
+Recall: 0.2405, F2 macro: 0.2645, F2 micro: 0.3665, hl: 0.1152, oe: 0.3266
+
+moco geo
+Recall: 0.2410, F2 macro: 0.2666, F2 micro: 0.3599, hl: 0.1170, oe: 0.3439
+
+moco geo+tp
+Recall: 0.2237, F2 macro: 0.2452, F2 micro: 0.3492, hl: 0.1185, oe: 0.3634

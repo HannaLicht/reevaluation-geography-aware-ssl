@@ -1,0 +1,25 @@
+moco
+
+Loss: 0.2065, Recall: 0.3935
+F2 macro: 0.4244, F2 micro: 0.5552
+hl: 0.0909, oe: 0.1772
+
+moco geo
+
+Loss: 0.2088, Recall: 0.4170
+F2 macro: 0.4481, F2 micro: 0.5703
+hl: 0.0902, oe: 0.1748
+
+moco tp 
+
+Loss: 0.2110, Recall: 0.3945
+F2 macro: 0.4262, F2 micro: 0.5460
+hl: 0.0929, oe: 0.1812
+
+moco geo tp
+
+Loss: 0.2191, Recall: 0.3823
+F2 macro: 0.4127, F2 micro: 0.5378
+hl: 0.0951, oe: 0.1940
+
+
