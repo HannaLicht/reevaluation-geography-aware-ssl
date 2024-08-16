@@ -1,0 +1,4 @@
+\section{Conclusion}
+
+My study demonstrates that integrating the metadata associated with remote-sensing data into contrastive learning foundation models improves their performance on the BigEarthNet Sentinel-2 dataset. The MLP classifier on top of the MoCo-v2 model pre-trained on the additional geo-location classification task achieves the best results. This indicates that creating foundation model architectures that are specifically adapted to the unique characteristics of remote sensing data can be very beneficial. \\ 
+However, a limitation of the experiments is the absence of fine-tuning foundation models. A retraining phase on the BigEarthNet data could greatly improve the results. Also, the evaluation results depend a lot on the adaptation method, as shown by the huge improvement when using an MLP instead of linear probing.
