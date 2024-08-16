@@ -1,5 +1,6 @@
+### Abstract:
 Foundation models, trained on large datasets in a self-supervised manner, have become useful tools in artificial intelligence, 
-especially in domains with abundant unlabeled data but scarce labeled data, such as remote sensing. Thisrepo re-evaluates the 
+especially in domains with abundant unlabeled data but scarce labeled data, such as remote sensing. This study re-evaluates the 
 MoCo-v2 framework and compares it with a geography-aware contrastive learning approach introduced by Ayush et al. in the paper 
 ”Geography-Aware Self-Supervised Learning” [1]. This approach leverages spatio-temporal structures in remote-sensing data and 
 combines it with a geo-location classification pre-text task. I use the BigEarthNet dataset to evaulate the expressivness of 
